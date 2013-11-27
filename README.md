@@ -2,9 +2,9 @@
 
 This is a modified version of Mathis Bynens [dotfiles repository](https://github.com/mathiasbynens/dotfiles).
 
-Summary of changes I made:
-* .osx
-** removed settings for Twitter, SizeUp and Transmission app
+## Summary of changes I made:
+.osx
+* removed settings for Twitter, SizeUp and Transmission app
 
 ## Installation
 
